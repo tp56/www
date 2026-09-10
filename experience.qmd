@@ -1,0 +1,67 @@
+---
+title: "Experience"
+
+format:
+  html:
+    toc: true
+    toc-location: right
+    toc-depth: 3
+    page-navigation: true
+---
+
+## San Francisco City FC
+**Data Analyst Intern**
+
+*San Francisco, CA | May 2026 – Present*
+
+I founded and spearheaded the Analysis team at San Francisco City FC, the nation's oldest community owned soccer team. My role combined the use of data and video to prepare the team for matches and use data to inform strategy for the the sporting side of the club.
+
+My work helped lead the team to its first ever USL2 Norcal Division Championship, and reach the USL2 Playoffs for the first time. 
+
+- Owned the end-to-end performance analysis pipeline, from video ingestion and event tagging to delivering actionable insights within 24- and 72-hour reporting windows
+- Produced concise, decision-oriented analytic reports for coaches and sporting leadership, translating player- and team-level data into recommendations for selection, roles, and tactical adjustments
+- Tracked principle-based KPIs and development trends to evaluate alignment between on-field performance and the organization’s game model
+- Combined video and event data to identify outliers, usage patterns, and developmental signals at the individual level, directly informing Individual Development Plans
+
+## Carnegie Mellon University Sports Analytics Lab 
+**Undergraduate Researcher**
+
+*Pittsburgh, PA | May 2025 – Present*
+
+I’m one of a small group of undergraduates in the lab, where I conduct mostly independent research focused on women’s sports—primarily the NWSL (and adjacent league data when relevant). My work focuses on statistical modeling for the women's game.
+
+- Analyze multiple NWSL seasons in R, cleaning datasets and visualizing trends to identify player roles and positional dynamics
+- Authored research paper, *Identifying Positional Archetypes in the National Women’s Soccer League (NWSL) Through Clustering*, using exploratory data analysis and hierarchical clustering to uncover subgroups within traditional positions
+- Presented research at the American Soccer Insights Summit (2026) and the Carnegie Mellon Sports Analytics Conference (2025)
+- Built a data-driven positional analysis framework that supports scouting and recruitment, filling a gap in women’s soccer analytics
+
+## American Soccer Analysis
+**Contributor**
+
+*Remote | Feb 2026 – Present*
+
+I contribute research and analysis to American Soccer Analysis, working on content that turns league data into clear, evidence-based football/soccer storytelling. My focus is on using advanced metrics to produce practical takeaways for how teams and players should be evaluated across a season.
+- Wrote an NWSL season preview and midseason review using advanced metrics and league-specific performance data
+- Lead independent research initiatives in R using ASA datasets to develop positional analysis workflows and deliver publishable findings *(work in progress)*
+
+## AbbVie
+
+**Global Regulatory Strategy Intern**
+
+*South San Francisco, CA | May 2025 – Aug. 2025*
+
+I interned on Global Regulatory Strategy team at AbbVie, where I worked at the intersection of clinical development, regulatory, and competitive intelligence. I helped quantify approval risk and translate data into timelines and recommendations that supported strategic decision-making.
+
+- Synthesize clinical, regulatory, and competitive datasets to quantify approval risks and accelerate time-to-market by 30+ days; develop predictive timelines to surface critical bottlenecks
+- Conduct quantitative analysis of trial data architectures and regulatory requirements; design structured risk assessments to estimate approval probability and stage-dependent milestone risks
+- Partnered across regulatory, clinical, and commercial teams to translate quantitative risk analysis into strategic recommendations, informing approval pathway decisions for early-stage oncology assets
+
+<!-- ## Downs Lab at Carnegie Mellon University 
+
+**Undergraduate Research Assistant**
+
+*Pittsburgh, PA | Aug. 2025 – Feb 2026*
+
+I supported research in the Downs Lab at Carnegie Mellon University by analyzing how political ideology shapes economic perceptions. My work involved running regression-based analyses and preparing large-scale human-subject datasets for reliable statistical inference.
+- Apply regression analysis to evaluate how political ideology shapes consumer perceptions of the economy
+- Process, code, and standardize large-scale human-subject datasets with multi-institution research teams, ensuring data integrity and cross-source consistency -->

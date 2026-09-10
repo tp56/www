@@ -1,0 +1,19 @@
+---
+title: "Published Work"
+description: "Externally published work"
+date: July 2025
+about:
+  template: solana
+---
+In addition to self-published ponderings, here's work that has been published outside of this site.
+
+### American Soccer Analysis
+I previewed the 2026 NWSL Season Utah Royals for American Soccer Analsysis.  \
+[It's Got the Grooviest Kids](https://www.americansocceranalysis.com/home/2026/3/7/2026-nwsl-previews-utah-royals-angel-city)
+
+I wrote a midseason review of all 16 NWSL teams using logistic regression and transition matrices.  \
+[A 2026 NWSL Midseason Analysis From the Lens of Expected Threat](https://www.americansocceranalysis.com/home/2026/7/7/a-2026-nwsl-midseason-analysis-from-the-lens-of-expected-threat)
+
+### The Tartan
+A profile piece on the one and only Gary Aldrich, the head coach of CMU Track and Field.  \
+[Coach Aldrich Reflects on his Olympics Experience](https://the-tartan.org/2024/09/30/coach-aldrich-reflects-on-his-olympics-experience/)

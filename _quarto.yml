@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Theresa Pham"
+  navbar:
+    background: "#06402B"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Experience"
+        href: experience.qmd
+      - text: "Projects"
+        href: projects.qmd
+      # - text: "Ponderings"
+      #   href: ponderings.qmd
+    right:
+      - icon: github
+        href: https://github.com/tp56
+      - icon: linkedin
+        href: https://linkedin.com/in/theresap90
+
+format:
+  html:
+    theme: 
+      light: yeti
+      dark: darkly
+    css: styles.css
+    toc: false

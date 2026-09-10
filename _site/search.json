@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Theresa Pham",
+    "section": "",
+    "text": "Hello and welcome to my website! I am Theresa, junior at Carnegie Mellon University, majoring in Statistics and Machine Learning with a minor in Biomedical Engineering.\nMy professional interests lie at the intersection of statistics, machine learning, and biomechanics; so think mainly sports analytics, performance science, and data science.\nOutside of the classroom, I enjoy open-water swimming, exploring local eateries, and reading books that say something about our world. Feel free to contact me via email or LinkedIn message if you have any questions or want to connect!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nAn Expected Points Model using Shots, Rebounds, and Fouls\n\n\n\n\n\n\n\n\nSep 10, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nNWSL Archetypes\n\n\nBeyond Attackers, Midfielders, and Defenders: Identifying Positional Archetypes in the National Women’s Soccer League (NWSL) through Clustering\n\n\n\n\n\nJan 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nBall Hawks: Measuring a defender’s commitment to the ball when it is in the air and its impact on play outcomes\n\n\n2026 Big Data Bowl Submission\n\n\n\n\n\nJan 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nPublished Work\n\n\nExternally published work\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/published-work/published-work.html",
+    "href": "projects/published-work/published-work.html",
+    "title": "Published Work",
+    "section": "",
+    "text": "In addition to self-published ponderings, here’s work that has been published outside of this site.\n\nAmerican Soccer Analysis\nI previewed the 2026 NWSL Season Utah Royals for American Soccer Analsysis.\nIt’s Got the Grooviest Kids\nI wrote a midseason review of all 16 NWSL teams using logistic regression and transition matrices.\nA 2026 NWSL Midseason Analysis From the Lens of Expected Threat\n\n\nThe Tartan\nA profile piece on the one and only Gary Aldrich, the head coach of CMU Track and Field.\nCoach Aldrich Reflects on his Olympics Experience"
+  },
+  {
+    "objectID": "projects/nwsl-archetypes/nwsl-achetypes.html",
+    "href": "projects/nwsl-archetypes/nwsl-achetypes.html",
+    "title": "NWSL Archetypes",
+    "section": "",
+    "text": "What makes a midfielder different from a defender? And are all attackers the same? Using clustering analysis on NWSL player statistics from 2023–2024, I identified multiple subgroups within each traditional position—revealing that positions like “midfielder” actually contain distinct archetypes (defensive midfielders, attacking midfielders, etc.). This analysis bridges a gap in soccer analytics, where positional research has historically focused on the men’s game, and demonstrates how data-driven insights can help teams scout talent more strategically and help fans understand the tactical nuances hidden behind simple position labels.\nVersions of this work has been presented at various sports analytics/undergraduate research confrences:\n\nAmerican Soccer Insights Summit as a roundtable presentation\nCarneige Mellon Sports Analytics Confrence as a poster\nMeeting of the Minds as a poster"
+  },
+  {
+    "objectID": "projects/big-data-bowl/big-data-bowl-26.html",
+    "href": "projects/big-data-bowl/big-data-bowl-26.html",
+    "title": "Ball Hawks: Measuring a defender’s commitment to the ball when it is in the air and its impact on play outcomes",
+    "section": "",
+    "text": "2026 Big Data Bowl submission focused on measuring a defenders “commitment” to the ball. I worked with Archith Sharma to apply basic geometry to create a novel metric that communicates defender movement when the ball is in the air. We used XGBoost for predictive modeling and outcome correlation."
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Analyst Intern\nSan Francisco, CA | May 2026 – Present\nI founded and spearheaded the Analysis team at San Francisco City FC, the nation’s oldest community owned soccer team. My role combined the use of data and video to prepare the team for matches and use data to inform strategy for the the sporting side of the club.\nMy work helped lead the team to its first ever USL2 Norcal Division Championship, and reach the USL2 Playoffs for the first time.\n\nOwned the end-to-end performance analysis pipeline, from video ingestion and event tagging to delivering actionable insights within 24- and 72-hour reporting windows\nProduced concise, decision-oriented analytic reports for coaches and sporting leadership, translating player- and team-level data into recommendations for selection, roles, and tactical adjustments\nTracked principle-based KPIs and development trends to evaluate alignment between on-field performance and the organization’s game model\nCombined video and event data to identify outliers, usage patterns, and developmental signals at the individual level, directly informing Individual Development Plans"
+  },
+  {
+    "objectID": "experience.html#san-francisco-city-fc",
+    "href": "experience.html#san-francisco-city-fc",
+    "title": "Experience",
+    "section": "",
+    "text": "Data Analyst Intern\nSan Francisco, CA | May 2026 – Present\nI founded and spearheaded the Analysis team at San Francisco City FC, the nation’s oldest community owned soccer team. My role combined the use of data and video to prepare the team for matches and use data to inform strategy for the the sporting side of the club.\nMy work helped lead the team to its first ever USL2 Norcal Division Championship, and reach the USL2 Playoffs for the first time.\n\nOwned the end-to-end performance analysis pipeline, from video ingestion and event tagging to delivering actionable insights within 24- and 72-hour reporting windows\nProduced concise, decision-oriented analytic reports for coaches and sporting leadership, translating player- and team-level data into recommendations for selection, roles, and tactical adjustments\nTracked principle-based KPIs and development trends to evaluate alignment between on-field performance and the organization’s game model\nCombined video and event data to identify outliers, usage patterns, and developmental signals at the individual level, directly informing Individual Development Plans"
+  },
+  {
+    "objectID": "experience.html#carnegie-mellon-university-sports-analytics-lab",
+    "href": "experience.html#carnegie-mellon-university-sports-analytics-lab",
+    "title": "Experience",
+    "section": "Carnegie Mellon University Sports Analytics Lab",
+    "text": "Carnegie Mellon University Sports Analytics Lab\nUndergraduate Researcher\nPittsburgh, PA | May 2025 – Present\nI’m one of a small group of undergraduates in the lab, where I conduct mostly independent research focused on women’s sports—primarily the NWSL (and adjacent league data when relevant). My work focuses on statistical modeling for the women’s game.\n\nAnalyze multiple NWSL seasons in R, cleaning datasets and visualizing trends to identify player roles and positional dynamics\nAuthored research paper, Identifying Positional Archetypes in the National Women’s Soccer League (NWSL) Through Clustering, using exploratory data analysis and hierarchical clustering to uncover subgroups within traditional positions\nPresented research at the American Soccer Insights Summit (2026) and the Carnegie Mellon Sports Analytics Conference (2025)\nBuilt a data-driven positional analysis framework that supports scouting and recruitment, filling a gap in women’s soccer analytics"
+  },
+  {
+    "objectID": "experience.html#american-soccer-analysis",
+    "href": "experience.html#american-soccer-analysis",
+    "title": "Experience",
+    "section": "American Soccer Analysis",
+    "text": "American Soccer Analysis\nContributor\nRemote | Feb 2026 – Present\nI contribute research and analysis to American Soccer Analysis, working on content that turns league data into clear, evidence-based football/soccer storytelling. My focus is on using advanced metrics to produce practical takeaways for how teams and players should be evaluated across a season. - Wrote an NWSL season preview and midseason review using advanced metrics and league-specific performance data - Lead independent research initiatives in R using ASA datasets to develop positional analysis workflows and deliver publishable findings (work in progress)"
+  },
+  {
+    "objectID": "experience.html#abbvie",
+    "href": "experience.html#abbvie",
+    "title": "Experience",
+    "section": "AbbVie",
+    "text": "AbbVie\nGlobal Regulatory Strategy Intern\nSouth San Francisco, CA | May 2025 – Aug. 2025\nI interned on Global Regulatory Strategy team at AbbVie, where I worked at the intersection of clinical development, regulatory, and competitive intelligence. I helped quantify approval risk and translate data into timelines and recommendations that supported strategic decision-making.\n\nSynthesize clinical, regulatory, and competitive datasets to quantify approval risks and accelerate time-to-market by 30+ days; develop predictive timelines to surface critical bottlenecks\nConduct quantitative analysis of trial data architectures and regulatory requirements; design structured risk assessments to estimate approval probability and stage-dependent milestone risks\nPartnered across regulatory, clinical, and commercial teams to translate quantitative risk analysis into strategic recommendations, informing approval pathway decisions for early-stage oncology assets"
+  },
+  {
+    "objectID": "projects/wnba-expected-points/wnba-xp.html",
+    "href": "projects/wnba-expected-points/wnba-xp.html",
+    "title": "An Expected Points Model using Shots, Rebounds, and Fouls",
+    "section": "",
+    "text": "Shots, Boards & Whistles: A Decomposed Expected Points Framework for WNBA Offense"
+  },
+  {
+    "objectID": "projects/wnba-expected-points/wnba-xp.html#project-overview",
+    "href": "projects/wnba-expected-points/wnba-xp.html#project-overview",
+    "title": "An Expected Points Model using Shots, Rebounds, and Fouls",
+    "section": "Project Overview",
+    "text": "Project Overview\nTraditional basketball statistics often evaluate what happened without measuring the quality of the opportunity that produced it. This project develops an Expected Points framework for evaluating offensive performance in the WNBA by modeling the different ways a shot attempt can generate value.\nUsing 2024 WNBA play-by-play data, I trained separate logistic regression models to estimate: - The probability that a shot is made - The probability that the offense secures an offensive rebound - The probability that the shooter draws a foul\nThese predictions were combined into a unified expected-value metric, allowing offensive opportunities to be evaluated beyond their immediate box-score outcome. The model was then tested on out-of-sample 2025 data to assess its stability and predictive performance."
+  },
+  {
+    "objectID": "projects/wnba-expected-points/wnba-xp.html#key-findings",
+    "href": "projects/wnba-expected-points/wnba-xp.html#key-findings",
+    "title": "An Expected Points Model using Shots, Rebounds, and Fouls",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nShot conversion and foul-drawing models demonstrated stronger predictive discrimination than the offensive-rebound model.\nThe framework revealed meaningful differences in expected value across shot types, players, and teams.\nResidual-based measures identified players and teams that performed above or below model expectations.\nThe metric separates opportunity generation from execution, offering a more detailed view of offensive performance than traditional statistics alone.\n\nProject complete but paper currently under review; a sample of analysis in paper can seen below."
+  },
+  {
+    "objectID": "projects/nwsl-archetypes/nwsl-archetypes.html",
+    "href": "projects/nwsl-archetypes/nwsl-archetypes.html",
+    "title": "NWSL Archetypes",
+    "section": "",
+    "text": "What makes a midfielder different from a defender? And are all attackers the same? Using clustering analysis on NWSL player statistics from 2023–2024, I identified multiple subgroups within each traditional position—revealing that positions like “midfielder” actually contain distinct archetypes (defensive midfielders, attacking midfielders, etc.). This analysis bridges a gap in soccer analytics, where positional research has historically focused on the men’s game, and demonstrates how data-driven insights can help teams scout talent more strategically and help fans understand the tactical nuances hidden behind simple position labels.\nVersions of this work has been presented at various sports analytics/undergraduate research confrences:\n\nAmerican Soccer Insights Summit as a roundtable presentation\nCarneige Mellon Sports Analytics Confrence as a poster\nMeeting of the Minds as a poster\n\nRead the paper"
+  }
+]

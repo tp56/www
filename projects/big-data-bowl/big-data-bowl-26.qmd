@@ -1,0 +1,19 @@
+---
+title: "Ball Hawks: Measuring a defender's commitment to the ball when it is in the air and its impact on play outcomes"
+description: "2026 Big Data Bowl Submission "
+date: January 2026
+about:
+  template: solana
+  links: 
+    - icon: pencil
+      text: Writeup
+      href: https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics/writeups/ball-hawks
+      target: _blank
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/tp56/big-data-bowl-26-images-code
+      target: _blank
+---
+![](big-data-bowl-26-cover.png)
+
+2026 Big Data Bowl submission focused on measuring a defenders "commitment" to the ball. I worked with Archith Sharma to apply basic geometry to create a novel metric that communicates defender movement when the ball is in the air. We used XGBoost for predictive modeling and outcome correlation.
